@@ -2,6 +2,6 @@
 
 <br />
 
-Привет, меня зовут Artyom.
+Привет, меня зовут Artyom. git remote add origin <url>
 
 <br />
